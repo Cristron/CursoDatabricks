@@ -1,6 +1,12 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC ## Analisis de TABLA MINABLE del Banco Berka
+
+# COMMAND ----------
+
 # DBTITLE 1,Análisis Banco Berka
 # MAGIC %sql
+# MAGIC
 # MAGIC DROP TABLE IF EXISTS BERKA_ACCOUNT;
 # MAGIC
 # MAGIC CREATE TABLE BERKA_ACCOUNT
