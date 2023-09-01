@@ -1,4 +1,5 @@
 # Databricks notebook source
+# DBTITLE 1,Análisis Banco Berka
 # MAGIC %sql
 # MAGIC DROP TABLE IF EXISTS BERKA_ACCOUNT;
 # MAGIC
